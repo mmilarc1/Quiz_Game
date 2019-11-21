@@ -14,9 +14,8 @@ questions = [pop_culture, animal_related, fun_facts]
 
 quiz = {pop_culture: [("Beyonce sings the song, Drunk in Love", True),
                       ("According to Netflix, Is pink the new black?", False),
-                      (
-                      "Selena Gomez swung on a wrecking ball for a music video"
-                      , False)],
+                      ("Selena Gomez swung on a wrecking ball for a music "
+                       "video", False)],
 
         animal_related: [("Rabbits are born blind", True),
                          ("Pickles are known as a group of hedgehogs", True),
